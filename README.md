@@ -1,6 +1,6 @@
 # Sabor Caseiro — Site de restaurante
 
-Projeto fictício desenvolvido para fins educacionais com **HTML5 e CSS3**.
+Projeto fictício desenvolvido para fins educacionais com **HTML e CSS**.
 
 ## Objetivo
 Criar uma página simples e responsiva para apresentar um restaurante, sua história, itens de cardápio e informações de contato.
