@@ -13,8 +13,8 @@ Criar uma página simples e responsiva para apresentar um restaurante, sua hist�
 - Layout adaptável para celulares e computadores.
 
 ## Tecnologias utilizadas
-- HTML5
-- CSS3
+- HTML
+- CSS
 
 ## Como visualizar
 1. Baixe ou clone este repositório.
